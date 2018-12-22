@@ -1,0 +1,14 @@
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\bin\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.deps.json
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\bin\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.runtimeconfig.json
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\bin\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.runtimeconfig.dev.json
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\bin\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.dll
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.csprojAssemblyReference.cache
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.csproj.CoreCompileInputs.cache
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.RazorAssemblyInfo.cache
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.RazorAssemblyInfo.cs
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.AssemblyInfoInputs.cache
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.AssemblyInfo.cs
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.RazorTargetAssemblyInfo.cache
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\bin\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.pdb
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.dll
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerApi.pdb

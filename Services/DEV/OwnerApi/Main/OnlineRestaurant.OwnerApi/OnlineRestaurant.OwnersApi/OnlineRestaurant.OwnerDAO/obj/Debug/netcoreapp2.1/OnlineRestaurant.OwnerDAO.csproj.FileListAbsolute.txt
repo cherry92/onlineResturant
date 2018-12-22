@@ -1,0 +1,9 @@
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerDAO\bin\Debug\netcoreapp2.1\OnlineRestaurant.OwnerDAO.deps.json
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerDAO\bin\Debug\netcoreapp2.1\OnlineRestaurant.OwnerDAO.dll
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerDAO\bin\Debug\netcoreapp2.1\OnlineRestaurant.OwnerDAO.pdb
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerDAO\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerDAO.csprojAssemblyReference.cache
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerDAO\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerDAO.csproj.CoreCompileInputs.cache
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerDAO\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerDAO.AssemblyInfoInputs.cache
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerDAO\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerDAO.AssemblyInfo.cs
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerDAO\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerDAO.dll
+C:\OnlineRestaurant\Services\DEV\OwnerApi\Main\OnlineRestaurant.OwnerApi\OnlineRestaurant.OwnersApi\OnlineRestaurant.OwnerDAO\obj\Debug\netcoreapp2.1\OnlineRestaurant.OwnerDAO.pdb
