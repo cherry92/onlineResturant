@@ -29,8 +29,8 @@ namespace OnlineRestaurant.OwnerApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddTransient<IOwnerDAO,OwnerDAOImpl>();
-            services.AddTransient<IOwnerService, OwnerServiceImpl>();
+                services.AddTransient<IOwnerDAO,OwnerDAOImpl>();
+                services.AddTransient<IOwnerService, OwnerServiceImpl>();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddSwaggerGen(c =>
             {
@@ -52,7 +52,7 @@ namespace OnlineRestaurant.OwnerApi
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "WorkerProcessApi API");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Owners API");
             });
             app.UseHttpsRedirection();
             app.UseMvc();

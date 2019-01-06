@@ -1,0 +1,17 @@
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\bin\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.deps.json
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\bin\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.runtimeconfig.json
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\bin\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.runtimeconfig.dev.json
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\bin\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.dll
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.csprojAssemblyReference.cache
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.csproj.CoreCompileInputs.cache
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.RazorAssemblyInfo.cache
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.RazorAssemblyInfo.cs
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.AssemblyInfoInputs.cache
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.AssemblyInfo.cs
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.RazorTargetAssemblyInfo.cache
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\bin\Debug\netcoreapp2.1\CommonUtilities.dll
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\bin\Debug\netcoreapp2.1\CommonUtilities.pdb
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.csproj.CopyComplete
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\bin\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.pdb
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.dll
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.MenuApi\OnlineRestaurant.MenuApi\obj\Debug\netcoreapp2.1\OnlineRestaurant.MenuApi.pdb

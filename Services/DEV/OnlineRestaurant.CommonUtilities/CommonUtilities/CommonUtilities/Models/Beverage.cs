@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Text;
 
-namespace OnlineRestaurant.OwnerApi.Models
+namespace CommonUtilities.Models
 {
-    public class Item
+    public class Beverage
     {
         public string Name { get; set; }
-        public int Type_ID { get; set; }
         public long Prices { get; set; }
         public int Quantity { get; set; }
         public long Calorie { get; set; }
+        public bool Alocoholic { get; set; }
+        public string Description { get; set; } 
     }
 }

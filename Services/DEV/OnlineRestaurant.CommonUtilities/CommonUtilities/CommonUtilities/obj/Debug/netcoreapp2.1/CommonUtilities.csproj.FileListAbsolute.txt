@@ -1,0 +1,8 @@
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.CommonUtilities\CommonUtilities\CommonUtilities\bin\Debug\netcoreapp2.1\CommonUtilities.deps.json
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.CommonUtilities\CommonUtilities\CommonUtilities\bin\Debug\netcoreapp2.1\CommonUtilities.dll
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.CommonUtilities\CommonUtilities\CommonUtilities\bin\Debug\netcoreapp2.1\CommonUtilities.pdb
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.CommonUtilities\CommonUtilities\CommonUtilities\obj\Debug\netcoreapp2.1\CommonUtilities.csproj.CoreCompileInputs.cache
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.CommonUtilities\CommonUtilities\CommonUtilities\obj\Debug\netcoreapp2.1\CommonUtilities.AssemblyInfoInputs.cache
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.CommonUtilities\CommonUtilities\CommonUtilities\obj\Debug\netcoreapp2.1\CommonUtilities.AssemblyInfo.cs
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.CommonUtilities\CommonUtilities\CommonUtilities\obj\Debug\netcoreapp2.1\CommonUtilities.dll
+C:\OnlineRestaurant\onlineResturant-master\onlineResturant-master\Services\DEV\OnlineRestaurant.CommonUtilities\CommonUtilities\CommonUtilities\obj\Debug\netcoreapp2.1\CommonUtilities.pdb

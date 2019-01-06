@@ -12099,11 +12099,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OnlineRestaurant\\Services\\DEV\\OwnerApi\\Main\\OnlineRestaurant.OwnerApi\\OnlineRestaurant.OwnersApi\\OnlineRestaurant.OwnerApi\\OnlineRestaurant.OwnerApi.csproj",
+      "projectUniqueName": "C:\\OnlineRestaurant\\onlineResturant-master\\onlineResturant-master\\Services\\DEV\\OwnerApi\\Main\\OnlineRestaurant.OwnerApi\\OnlineRestaurant.OwnersApi\\OnlineRestaurant.OwnerApi\\OnlineRestaurant.OwnerApi.csproj",
       "projectName": "OnlineRestaurant.OwnerApi",
-      "projectPath": "C:\\OnlineRestaurant\\Services\\DEV\\OwnerApi\\Main\\OnlineRestaurant.OwnerApi\\OnlineRestaurant.OwnersApi\\OnlineRestaurant.OwnerApi\\OnlineRestaurant.OwnerApi.csproj",
+      "projectPath": "C:\\OnlineRestaurant\\onlineResturant-master\\onlineResturant-master\\Services\\DEV\\OwnerApi\\Main\\OnlineRestaurant.OwnerApi\\OnlineRestaurant.OwnersApi\\OnlineRestaurant.OwnerApi\\OnlineRestaurant.OwnerApi.csproj",
       "packagesPath": "C:\\Users\\Kalyan\\.nuget\\packages\\",
-      "outputPath": "C:\\OnlineRestaurant\\Services\\DEV\\OwnerApi\\Main\\OnlineRestaurant.OwnerApi\\OnlineRestaurant.OwnersApi\\OnlineRestaurant.OwnerApi\\obj\\",
+      "outputPath": "C:\\OnlineRestaurant\\onlineResturant-master\\onlineResturant-master\\Services\\DEV\\OwnerApi\\Main\\OnlineRestaurant.OwnerApi\\OnlineRestaurant.OwnersApi\\OnlineRestaurant.OwnerApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
